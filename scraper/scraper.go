@@ -1,4 +1,4 @@
-package main
+package ttscraper
 
 import (
 	"fmt"
@@ -12,12 +12,11 @@ import (
 	"golang.org/x/net/html"
 )
 
-func main() {
+func Scrape() {
 	pageReader, _ := getPage("http://finalfantasy.wikia.com/wiki/List_of_Final_Fantasy_VIII_Triple_Triad_cards")
 	wd, _ := os.Getwd()
 	os.Mkdir(wd+"/img", os.ModePerm)
 	ParsePage(pageReader)
-
 }
 
 func getPage(url string) (io.Reader, error) {
