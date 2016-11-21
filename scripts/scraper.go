@@ -1,4 +1,4 @@
-package ttscraper
+package scripts
 
 import (
 	"fmt"
