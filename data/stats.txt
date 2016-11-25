@@ -1,0 +1,1186 @@
+=======================================================================
+  Level 1 Monster Card
+=======================================================================
+Name        :Geezard
+Elemental   :N/A
+Card Mod    :1x will refine into 5x screws.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   1
+              5   4
+                1
+-----------------------------------------------------------------------
+Name        :Funguar
+Elemental   :N/A
+Card Mod    :1x will refine into 1x M-Stone Piece.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   5
+              3   1
+                1
+-----------------------------------------------------------------------
+Name        :Bite Bug
+Elemental   :N/A
+Card Mod    :1x will refine into 1x M-Stone Piece.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   1
+              5   3
+                3
+-----------------------------------------------------------------------
+Name        :Red Bat
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Vampire Fang.
+Usage       :Use for refining purposes.
+Statistics  :   6
+              2   1
+                1
+-----------------------------------------------------------------------
+Name        :Blobra
+Elemental   :N/A
+Card Mod    :4x will refine into 1x Rune Armlet.
+Usage       :Has the effect of Spr + 20%. [Character Ability]
+             Use for refining purposes.
+Statistics  :   2
+              5   3
+                1 
+-----------------------------------------------------------------------
+Name        :Gayla
+Elemental   :Thunder
+Card Mod    :1x will refine into 1x Mystery Fluid.
+Usage       :Learns Blue Magic. [Acid] [Quistis's Limit Breath]
+             Use for refining purposes.
+Statistics  :   2
+              4   1
+                4
+-----------------------------------------------------------------------
+Name        :Gesper
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Black Hole
+Usage       :Learns Blue Magic. [Degenerator] [Quistis's Limit Breath]
+             Use for refining purposes.
+Statistics  :   1
+              1   5
+                4
+-----------------------------------------------------------------------
+Name        :Fastitocalon-F
+Elemental   :Earth
+Card Mod    :5x will refine into 1x Water Crystal.
+Usage       :Learns Blue Magic. [Aqua Breath]
+             Use for refining purposes.
+Statistics  :   3
+              1   5
+                2
+-----------------------------------------------------------------------
+Name        :Blood Soul
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Zombie Powder.
+Usage       :Use for refining purposes.
+Statistics  :   2
+              1   1
+                6
+-----------------------------------------------------------------------
+Name        :Caterchipillar
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Spider Web.
+Usage       :Learns Blue Magic. [Ultra Wave] [Quistis's Limit Break]
+             Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   4
+              3   2
+                4
+-----------------------------------------------------------------------
+Name        :Cockatrice
+Elemental   :Thunder
+Card Mod    :1x will refine into 1x Cockatrice Pinion.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   2
+              6   1
+                2
+=======================================================================
+  Level 2 Monster Card
+=======================================================================
+Name        :Grat
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Magic Stone.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   7
+              1   1
+                3
+-----------------------------------------------------------------------
+Name        :Buel
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Magic Stone.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   6
+              3   2
+                2
+-----------------------------------------------------------------------
+Name        :Mermerize
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Mesmerize Blade.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   5
+              4   3
+                3
+-----------------------------------------------------------------------
+Name        :Glacial Eye
+Elemental   :Ice
+Card Mod    :1x will refine into 1x Arctic Wind.
+Usage       :Improves Compatibility. [Shiva + 1]
+             Use for refining purposes.
+Statistics  :  6
+             3   1
+               4
+-----------------------------------------------------------------------
+Name        :Belhelmel
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Saw Blade.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   3
+              3   4
+                5
+-----------------------------------------------------------------------
+Name        :Thrustaevis
+Elemental   :Wind
+Card Mod    :1x will refine into 1x Shear Feather.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Pandemona + 1]
+             Use for refining purposes.
+Statistics  :   5
+              5   3
+                2
+-----------------------------------------------------------------------
+Name        :Anacondaur
+Elemental   :Poison
+Card Mod    :1x will refine into 1x Venom Fang.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [DoomTrain + 3]
+             Use for refining purposes.
+Statistics  :   5
+              5   1
+                3
+-----------------------------------------------------------------------
+Name        :Creeps
+Elemental   :Thunder
+Card Mod    :1x will refine into 1x Coral Fragment.
+Usage       :Learns Blue Magic. [Electrocute] [Quistis's Limit Break]
+             Use for refining purposes.
+Statistics  :   5
+              2   2
+                5
+-----------------------------------------------------------------------
+Name        :Grendel
+Elemental   :Thunder
+Card Mod    :1x will refine into 1x Dragon Fin.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Cerberus + 3]
+             Use for refining purposes.
+Statistics  :   4
+              2   4
+                5
+-----------------------------------------------------------------------
+Name        :Jelleye
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Magic Stone.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   3
+              7   2
+                1
+-----------------------------------------------------------------------
+Name        :Grand Mantis
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Sharp Spike.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   5
+              3   2
+                5
+=======================================================================
+  Level 3 Monster Card
+=======================================================================
+Name        :Forbidden
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Betrayal Sword.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   6
+              2   6
+                3
+-----------------------------------------------------------------------
+Name        :Armadodo
+Elemental   :Earth
+Card Mod    :1x will refine into 1x Dino Bono.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Brothers + 3]
+             Use for refining purposes.
+Statistics  :   6
+              6   3
+                1
+-----------------------------------------------------------------------
+Name        :Tri-Face
+Elemental   :Poison
+Card Mod    :1x will refine into 1x Curse Spike.
+Usage       :Learns Blue Magic. [LV ? Death] [Quistis's Limit Break]
+             Use as Junk Materials for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   3
+              5   5
+                5
+-----------------------------------------------------------------------
+Name        :Fastitocalon
+Elemental   :Earth
+Card Mod    :1x will refine into 1x Water Crystal.
+Usage       :Learns Blue Magic. [Aqua Breath] [Quistis's Limit Break]
+             Use for refining purposes.
+Statistics  :   7
+              3   5
+                1
+-----------------------------------------------------------------------
+Name        :Snow Lion
+Elemental   :Ice
+Card Mod    :1x will refine into 1x North Wind.
+Usage       :Improves Compatibility. [Shiva + 3]
+             Use for refining purposes.
+Statistics  :   7
+              3   1
+                5
+-----------------------------------------------------------------------
+Name        :Ochu
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Ochu Tentacle.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   5
+              3   6
+                3
+-----------------------------------------------------------------------
+Name        :SAMo8G
+Elemental   :Fire
+Card Mod    :1x will refine into 1x Running Fire.
+Usage       :Learns Blue Magic. [Gatling Gun] [Quistis's Limit Break]
+             Use for refining purposes.
+Statistics  :   5
+              4   6
+                2
+-----------------------------------------------------------------------
+Name        :Death Claw
+Elemental   :Fire
+Card Mod    :1x will refine into 1x Sharp Spike.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   4
+              2   4
+                7
+-----------------------------------------------------------------------
+Name        :Cactuar
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Cactus Thorn.
+Usage       :Improves Compatibility. [Cactuar + 3]
+             Use for refining purposes.
+Statistics  :   6
+              3   2
+                6
+-----------------------------------------------------------------------
+Name        :Tonberry
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Chef's Knife.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Tonberry King + 3]
+             Use for refining purposes.
+Statistics  :   3
+              4   6
+                4
+-----------------------------------------------------------------------
+Name        :Abyss Worm
+Elemental   :Earth
+Card Mod    :1x will refine into 1x Windmill.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Pandemona + 3]
+             Use for refining purposes.
+Statistics  :   7
+              5   2
+                3
+=======================================================================
+  Level 4 Monster Card
+=======================================================================
+Name        :Turtapod
+Elemental   :N/A
+Card Mod    :5x will refine into 1x Healing Mail.
+Usage       :Has the effect of GFHP + 10%. [G.F Ability]
+             Use for refining purposes.
+Statistics  :   2
+              7   3
+                6
+-----------------------------------------------------------------------
+Name        :Vysage
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Wizard Stone.
+Usage       :Use for Refining purposes.
+Statistics  :   6
+              5   5
+                4
+-----------------------------------------------------------------------
+Name        :T-Rexaur
+Elemental   :N/A
+Card Mod    :2x will refine into 1x Dino Bone.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Brothers + 3]
+             Use for refining purposes.
+Statistics  :   4
+              7   6
+                2
+-----------------------------------------------------------------------
+Name        :Bomb
+Elemental   :Fire
+Card Mod    :1x will refine into 1x Bomb Fragment.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Ifrit + 1]
+             Use for refining purposes.
+Statistics  :   2
+              3   7
+                6
+-----------------------------------------------------------------------
+Name        :Blitz
+Elemental   :Thunder
+Card Mod    :1x will refine into 1x Dynamo Stone.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Quezacotl + 3]
+             Use for refining purposes.
+Statistics  :   1
+              7   6
+                4
+-----------------------------------------------------------------------
+Name        :Wendigo
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Steel Orb.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Diablos + 3]
+             Use for refining purposes.
+Statistics  :   7
+              6   3
+                1
+-----------------------------------------------------------------------
+Name        :Torama
+Elemental   :N/A
+Card Mod    :5x will refine into 1x Life Ring.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   7
+              4   4
+                4
+-----------------------------------------------------------------------
+Name        :Imp
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Wizard Stone.
+Usage       :Use for refining purposes.
+Statistics  :   3
+              6   7
+                3
+-----------------------------------------------------------------------
+Name        :Blue Dragon
+Elemental   :Poison
+Card Mod    :1x will refine into 1x Fury Fragment.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   6
+              3   2
+                7
+-----------------------------------------------------------------------
+Name        :Adamantoise
+Elemental   :Earth
+Card Mod    :3x will refine into 1x Turtle Shell.
+Usage       :Has the effect of Vit + 20%. [Character Ability]
+             Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   4
+              6   5
+                5
+-----------------------------------------------------------------------
+Name        :Hexadragon
+Elemental   :Fire
+Card Mod    :3x will refine into 1x Sharp Spike.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   7
+              3   5
+                4
+
+=======================================================================
+  Level 5 Monster Card
+=======================================================================
+Name        :Iron Giant
+Elemental   :N/A
+Card Mod    :3x will refine into 1x Star Fragment.
+Usage       :Has the effect of SumMag +20%. [G.F Ability]
+             Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   6
+              5   5
+                6
+-----------------------------------------------------------------------
+Name        :Behemoth
+Elemental   :N/A
+Card Mod    :10x will refine into 1x Barrier.
+Usage       :Learns Blue Magic. [Mighty Guard] [Quistis's Limit Break]
+             Use for refining purposes.
+Statistics  :   3
+              7   6
+                5
+-----------------------------------------------------------------------
+Name        :Chimera
+Elemental   :Water
+Card Mod    :10x will refine into 1x Regen Ring.
+Usage       :Has the effect of HP + 20%. [Character Ability]
+             Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   7
+              3   6
+                5
+-----------------------------------------------------------------------
+Name        :PuPu
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Hungry Cookpot.
+Usage       :Destroys weak enemies for exchange of permanent
+             statistics raises. [Allows G.F to learn Devour Command]
+             Use for refining purposes.
+Location    :Must locate the UFO chase and take the Ragnarok to the
+             chocobo holy and you will encounter a fight with PuPu.
+             PuPu will then escape after the fight. Next, visit Balamb
+             area, the location where Balamb Garden formerly used to
+             be located and you will encounter a fight with PuPu again.
+             Give him 5 elixirs and he will give you the card. [Refer
+             to sidequest:UFO chasing for more information.]
+Statistics  :   3
+              1   A
+                2
+-----------------------------------------------------------------------
+Name        :Elastoid
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Steel Pipe.
+Usage       :Has the effect of SumMag + 10%. [G.F Ability]
+             Used as Junk Material for upgrading of weapons.
+             6x Steel Pipe are needed to get G.F Doom Train.
+             Use for refining purposes.
+Statistics  :   6
+              7   2
+                6
+-----------------------------------------------------------------------
+Name        :GIM47N
+Elemental   :N/A
+Card Mod    :1x will refine into 10x Fast Ammo.
+Usage       :Ammos for Quick Shot. [Irvine's Limit Break]
+             Use for refining purposes.
+Statistics  :   5
+              4   5
+                7
+-----------------------------------------------------------------------
+Name        :Malboro
+Elemental   :Poison
+Card Mod    :4x will refine into 1x Malboro Tentacle.
+Usage       :Learn Blue Magic. [Bad Breath] [Quistis's Limit Break]
+             Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   7
+              2   7
+                4
+-----------------------------------------------------------------------
+Name        :Ruby Dragon
+Elemental   :Fire
+Card Mod    :10x will refine into 1x Inferno Fang.
+Usage       :Learn Blue Magic. [Fire Breath] [Quistis's Limit Break]
+             Use as Junk Material for the upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   7
+              4   2
+                7
+-----------------------------------------------------------------------
+Name        :Elnoyle
+Elemental   :N/A
+Card Mod    :10x will refine into 1x Energy Crystal.
+Usage       :Has the effect of SumMag + 30%. [G.F Ability]
+             Used as Junk Material upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   5
+              6   3
+                7
+-----------------------------------------------------------------------
+Name        :Tonberry King
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Chef's Knife.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Tonberry King + 3]
+             Use for refining purposes.
+Statistics  :   4
+              4   6
+                7
+-----------------------------------------------------------------------
+Name        :Wedge, Biggs
+Elemental   :N/A
+Card Mod    :1x will refine into 1x X-Potion.
+Usage       :Restores HP to one ally.
+             Use for refining purposes.
+Statistics  :   6
+              7   6
+                2
+=======================================================================
+  Level 6 Boss Card
+=======================================================================
+Name        :Fujin, Raijin
+Elemental   :N/A
+Card Mod    :1x will refine into 1x X-Potion.
+Usage       :Restores HP to one ally.
+             Use for refining purposes.
+Statistics  :   2
+              4   8
+                8
+-----------------------------------------------------------------------
+Name        :Elvoret
+Elemental   :Wind
+Card Mod    :1x will refine into 10x Death Stones.
+Usage       :When used in battles, it allows you to kill an enemy
+             instantly.
+             Use for refining purposes.
+Statistics  :   7
+              4   8
+                3
+-----------------------------------------------------------------------
+Name        :X-ATM092
+Elemental   :N/A
+Card Mod    :2x will refine into 1x Turtle Shell.
+Usage       :Has the effect of Vit + 20%. [Character Ability]
+             Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   4
+              3   8
+                7
+-----------------------------------------------------------------------
+Name        :Granaldo
+Elemental   :N/A
+Card Mod    :1x will refine into 1x G-Returner.
+Usage       :Revives one dead G.F.
+             Use for refining purposes.
+Statistics  :   7
+              5   2
+                8
+-----------------------------------------------------------------------
+Name        :Gerogero
+Elemental   :Poison
+Card Mod    :10x will refine into 1x Circlet.
+Usage       :Has the effect of SumMag + 10%. [G.F Ability]
+             Use for refining purposes.
+Statistics  :   1
+              3   8
+                8
+-----------------------------------------------------------------------
+Name        :Iguion
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Cockatrice Pinion.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Statistics  :   8
+              2   2
+                8
+-----------------------------------------------------------------------
+Name        :Abadon
+Elemental   :N/A
+Card Mod    :1x will refine into 30x Dark Ammo.
+Usage       :Ammos for Dark Shot. [Irvine's Limit Break]
+             Use for refining purposes.
+Statistics  :   6
+              5   8
+                4
+-----------------------------------------------------------------------
+Name        :Trauma
+Elemental   :N/A
+Card Mod    :1x will refine into 30x Demolition Ammo.
+Usage       :Ammos for Canister Shot. [Irvine's Limit Break]
+             Use for refining purposes.
+Statistics  :   4
+              6   8
+                5
+-----------------------------------------------------------------------
+Name        :Oilboyle
+Elemental   :N/A
+Card Mod    :1x will refine into 30x Fire Ammos.
+Usage       :Ammos for Fire Shot. [Irvine's Limit Break]
+             Use for refining purposes.
+Statistics  :   1
+              8   8
+                4
+-----------------------------------------------------------------------
+Name        :Shumi Tribe
+Elemental   :N/A
+Card Mod    :5x will refine into 1x Gambler Spirit.
+Usage       :When used in battles, it allows you to turn an enemy
+             into a card. [Chances of turning the enemy into a card
+             is higher if the enemy is weak, especially when at low
+             HP.] [Allows G.F to learn Card Command]
+             Use for refining purposes.
+Statistics  :   6
+              4   5
+                8
+-----------------------------------------------------------------------
+Name        :Krysta
+Elemental   :N/A
+Card Mod    :1x will refine into 10x Holy Stone.
+Usage       :When used in battles, it allows you to cast powerful Holy
+             elemental attack on one enemy.
+             Use for refining purposes.
+Statistics  :   7
+              1   5
+                8
+=======================================================================
+  Level 7 Boss Card
+=======================================================================
+Name        :Propagator
+Elemental   :N/A
+Card Mod    :1x will refine into 1x G-Mega-Potion.
+Usage       :Recovers 1000HP to all G.Fs.
+             Use for refining purposes.
+Statistics  :   8
+              8   4
+                4
+-----------------------------------------------------------------------
+Name        :Jumbo Cactuar
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Cactus Thorn.
+Usage       :Improves Compatibility. [Cactuar + 3]
+             Use for refining purposes.
+Statistics  :   8
+              4   8
+                4
+-----------------------------------------------------------------------
+Name        :Tri-Point
+Elemental   :Thunder
+Card Mod    :40x will refine into 1x Jet Engine.
+Usage       :Has the effect of Spd + 20%. [Character Ability]
+             Use for refining purposes.
+Statistics  :   8
+              8   5
+                2
+------------------------------------------------------------------------
+Name        :Gargantua
+Elemental   :N/A
+Card Mod    :10x will refine into 1x Strength Love.
+Usage       :Has the effect of Str + 20%. [Character Ability]
+             Use for refining purposes.
+Statistics  :   5
+              8   6
+                6
+-----------------------------------------------------------------------
+Name        :Mobile Type 8
+Elemental   :N/A
+Card Mod    :1x will refine into 10x Shell Stones.
+Usage       :When used in battles, it raises one ally's magic defense
+             by 50%.
+             Use for refining purposes.
+Statistics  :   8
+              3   6
+                7
+-----------------------------------------------------------------------
+Name        :Sphinxara
+Elemental   :N/A
+Card Mod    :1x will refine into 1x G-Mega-Potion.
+Usage       :Recovers 1000HP to all G.Fs.
+             Use for refining purposes.
+Statistics  :   8
+              8   3
+                5
+-----------------------------------------------------------------------
+Name        :Tiamat
+Elemental   :N/A
+Card Mod    :1x will refine into 10x Flare Stone.
+Usage       :When used in battles, it allows you to cast Flare, which
+             is a non-elemental magic on one enemy.
+             Use for refining purposes.
+Statistics  :   8
+              4   8
+                5
+-----------------------------------------------------------------------
+Name        :BGH251F2
+Elemental   :N/A
+Card Mod    :1x will refine into 10x Protect Stone.
+Usage       :When used in battles, it raises one ally's physical
+             defense by 50%.
+             Use for refining purposes.
+Statistics  :   5
+              5   7
+                8
+-----------------------------------------------------------------------
+Name        :Red Giant
+Elemental   :N/A
+Card Mod    :1x will refine into 5x Meteor Stone.
+Usage       :When used in battles, it allows you to cast Meteor, a
+             non-elemental magic on all enemies. Multiple hits on
+             random enemies.
+             Use for refining purposes.
+Statistics  :   6
+              7   8
+                4
+-----------------------------------------------------------------------
+Name        :Catoblepas
+Elemental   :N/A
+Card Mod    :1x will refine into 5x Rename Card.
+Usage       :Changes the name of one G.F.
+             Use for refining purposes.
+Statistics  :   1
+              7   8
+                7
+-----------------------------------------------------------------------
+Name        :Ultima Weapon
+Elemental   :N/A
+Card Mod    :1x will refine into 1x Ultima Stone.
+Usage       :When used in battles, it allows you to cast Ultima, a
+             non-elemental magic on all enemies.
+             Use for refining purposes.
+Statistics  :   7
+              8   7
+                2
+=======================================================================
+ Level 8 GF Card
+=======================================================================
+Name        :Chubby Chocobo
+Elemental   :N/A
+Card Mod    :1x will refine into 100x LuvLuvGs.
+Usage       :Improves Compatibility. [All G.F + 20]
+             Use for refining purposes.
+Location    :The guy sitting on the bench in Balamb Garden, just
+             outside the library. [Must take part in Card Queen
+             Quest.]
+Statistics  :   4
+              9   4
+                8
+-----------------------------------------------------------------------
+Name        :Angelo
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Elixirs.
+Usage       :Restores all HP and cures all status ailments to an ally.
+             Use for refining purposes.
+Location    :Defeat Watts in disc one during Forest Owls event, that
+             is when you are in Timber Train and about to kidnap the
+             President of Deling, or in white SeeD ship during disc
+             three. 
+Statistics  :   9
+              3   6
+                7
+-----------------------------------------------------------------------
+Name        :Gilgamesh
+Elemental   :N/A
+Card Mod    :1x will refine into 10x Holy Wars.
+Usage       :Makes all invincible for a short duration and makes all
+             allies immune to all physical and magic attacks when
+             used during battles.
+             Use for refining purposes.
+Location    :Must beat the CC Group Quest. Defeat all five CC members
+             in Balamb Garden, then talk to Doctor Kadowaki in the
+             infirmary. Finally, go to your room and take a rest.
+             The CC King will appear randomly during your sleep.
+             Defeat her to get Gilgamesh's card.
+Statistics  :   3
+              6   7
+                9
+-----------------------------------------------------------------------
+Name        :MiniMog
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Pet Houses.
+Usage       :Recovers all HP for all G.F. [Can be used only at save
+             points or at world map.]
+             Use for refining purposes.
+Location    :Look for a small little kid wearing a blue shirt running
+             laps around the main lobby of Balamb Garden. Challenge
+             him to play cards and win a rare Mini-Mog's card.
+Statistics  :   9
+              2   3
+                9
+-----------------------------------------------------------------------
+Name        :Chocobo
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Gysahl Greens.
+Usage       :When used in battles, it allows you to summon G.F Boko,
+             a chocobo G.F. If you have a PocketStation, you can
+             make Boko learn new attacks.
+             Use for refining purposes.
+Location    :Visit all chocobo forest and solve the riddles. Next, go
+             to Chocobo Holy in the northeast part of the world map to
+             recieve the card. Note that Chocobo Holy is that Chocobo
+             Forest being surrounded  by Grandidi Forest. [Refer to
+             Sidequest:Chicobo for more information.]
+Statistics  :   9
+              4   4
+                8
+-----------------------------------------------------------------------
+Name        :Quezacotl
+Elemental   :Thunder
+Card Mod    :1x will refine into 100x Dynamo Stones.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Quezacotl + 3]
+             Use for refining purposes.
+Location    :Win from Mayor Dobe when you first arrive in Fisherman's
+             Horizon. [FH Area]
+Statistics  :   2
+              4   9
+                9
+-----------------------------------------------------------------------
+Name        :Shiva
+Elemental   :Ice
+Card Mod    :1x will refine into 100x North Winds.
+Usage       :Improves Compatibility. [Shiva + 3]
+             Use for refining purposes.
+Location    :Go into Timber Maniacs office and pick up the 'Girl
+             Next Door'. When you are in disc three, talk to Zone,
+             then the White SeeD, and finally to Zone again. He
+             will request you to give him the 'Girl Next Door'
+             magazine. Give it to him and he will give you Shiva's
+             card in return for that.
+Statistics  :   6
+              9   7
+                4
+-----------------------------------------------------------------------
+Name        :Ifrit
+Elemental   :Fire
+Card Mod    :1x will refine into 3x Elem Atks.
+Usage       :Allows you to junction elemental magic to elemental
+             attack. [G.F Junction Ability]
+             Use for refining purposes.
+Location    :Defeat Guardian Force, G.F Ifrit in Fire Cavern in disc
+             one.
+Statistics  :   9
+              8   6
+                2
+-----------------------------------------------------------------------
+Name        :Siren
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Status Atks.
+Usage       :Allows you to junction status magic to status attack.
+             [G.F Junction Ability]
+             Use for refining purposes.
+Location    :Visit the pub in Dollet City. Challenge against Master
+             of Card in the upper right of the screen. He will take
+             you to his private room via the bridge. Defeat him to
+             get Siren card.
+Tips        :Check the stack of magazines in his private room for
+             magazine, Occult Fan II.
+Statistics  :   8
+              2   9
+                6
+-----------------------------------------------------------------------
+Name        :Sacred
+Elemental   :Earth
+Card Mod    :1x will refine into 100x Dino Bones.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Brothers + 3]
+             Use for refining purposes.
+Location    :Defeat Guardian Force, G.F Brothers in the Tomb of
+             Unknown king to get Sacred and Minotaurs' cards. 
+Statistics  :   5
+              9   1
+                9
+-----------------------------------------------------------------------
+Name        :Minotaur
+Elemental   :Earth
+Card Mod    :1x will refine into 10x Adamantines.
+Usage       :Has the effect of Vit + 60%. [Character Ability]
+             Use as Junk Material for upgrading of weapons.
+             Use for refining purposes.
+Location    :Defeat Guardian Force, G.F Brothers in the Tomb of
+             Unknown king to get Sacred and Minotaurs' cards.
+Statistics  :   9
+              9   5
+                2
+=======================================================================
+  Level 9 GF Card
+=======================================================================
+Name        :Carbuncle
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Glow Curtains.
+Usage       :Automatically casts reflect on the character during
+             battles. [Character Ability] [Auto-Reflect]
+             Use for refining purposes.
+Location    :Take part in Card Club Quest and defeat CC Heart. CC
+             Heart is Xu, and is in the cockpit. Defeat her to
+             get Carbuncle's card.
+Statistics  :   8
+              4   4 
+                A
+-----------------------------------------------------------------------
+Name        :Diablos
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Black Holes.
+Usage       :Learns Blue Magic. [Degenerator] [Quistis's Limit Break]
+             Use for refining purposes.
+Location    :Use Magical Lamp given by Principal Cid and you will
+             encounter a fight with Guardian Force, G.F Diablos.
+             Defeat Guardian Force, G.F Diablos to get Diablos
+             card.
+Statistics  :   5 
+              3   A
+                8
+-----------------------------------------------------------------------
+Name        :Leviathan
+Elemental   :Water
+Card Mod    :1x will refine into 3x Doc's Codes.
+Usage       :Double the effect of medicine when used during battles.
+             [Character Ability] [Med Data]
+             Use for refining purposes.
+Location    :Take part in Card Club Quest. Defeat CC Joker in the
+             Training Center [Training Centre] to get Leviathan's
+             card.
+Statistics  :   7
+              7   A
+                1
+-----------------------------------------------------------------------
+Name        :Odin
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Dead Spirits.
+Usage       :Use for refining purposes.
+Location    :Defeat Guardian Force, G.F Odin in Centra Ruin from disc
+             two onwards to get Odin's card.
+Statistics  :   8
+              5   A
+                3
+-----------------------------------------------------------------------
+Name        :Pandemona
+Elemental   :Wind
+Card Mod    :1x will refine into 100x Windmills.
+Usage       :Use as Junk Material for upgrading of weapons.
+             Improves Compatibility. [Pandemona + 3]
+             Use for refining purposes.
+Location    :Challenge the hotel owner after saving Balamb Town, that
+             is after the invasion of Galbadia Army from disc 2
+             onwards. The hotel owner is standing outside Balamb
+             Hotel. Defeat him to get Pandemona's card.
+Statistics  :   A
+              7   1
+                7
+-----------------------------------------------------------------------
+Name        :Cerberus
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Lightweights.
+Usage       :Use for refining purposes.
+Location    :Defeat Guardian Force, G.F Cerberus in Galbadia Garden
+             during disc two to get Cerberus card.
+Statistics  :   7
+              A   4
+                6
+-----------------------------------------------------------------------
+Name        :Alexander
+Elemental   :Holy
+Card Mod    :1x will refine into 3x Moon Curtains.
+Usage       :Automatically increase character's magic defense by 50%
+             during battles. [Character Ability] [Auto-Shell]
+             Use for refining purposes.
+Location    :Challenge Piet at Lunar Base in disc three. You can
+             also challenge Piet after the Lunar Base incident in
+             disc three only by going to the Escape Retrieval Pod,
+             in Abandon Plains at the southern tip of Esthar
+             Continent. Defeat Piet to get Alexander's card.
+Statistics  :   9
+              2   A
+                4
+-----------------------------------------------------------------------
+Name        :Phoenix
+Elemental   :Fire
+Card Mod    :1x will refine into 3x Phoenix Spirits.
+Usage       :Revive dead ally. [Allows G.F to learn Revive Command.]
+             Use for refining purposes.
+Location    :From the guy wearing blue in colour at Esthar President's
+             building. [Must take part in Card Queen Quest.]
+Statistics  :   7
+              A   2
+                7
+-----------------------------------------------------------------------
+Name        :Bahamut
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Megalixirs.
+Usage       :Restores all HP and cure all status ailments to all
+             allies.
+             Use for refining purposes.
+Location    :Defeat Guardian Force, G.F Bahamut in Deep Sea Research
+             Center [Deep Sea Research Centre] to get Bahamut's card.
+             It is found in the most Southwest part of the World Map
+             and can only be accessed by the Ragnarok. Choose 'It's
+             not our will to fight' to encounter a fight with Ruby
+             Dragon, then choose 'Never' to fight with Ruby Dragon
+             again. Finally, choose the third option, which is
+             invisible under the second option and the third option
+             says 'It's our nature', to fight with Guardian Force,
+             Bahamut.
+Statistics  :   A
+              6   8
+                2
+-----------------------------------------------------------------------
+Name        :Doomtrain
+Elemental   :Poison
+Card Mod    :1x will refine into 3x Status Guards.
+Usage       :Allows you to junction status magic to status defense.
+             [G.F Junction Ability]
+             Use for refining purposes.
+Location    :From the Pub Owner, who has it in his desk in Timber.
+             [Must take part in Card Queen Quest.]
+Statistics  :   3
+              A   1
+                A
+-----------------------------------------------------------------------
+Name        :Eden
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Monk's Codes.
+Usage       :Allows character to counter when being physically
+             attacked during battles. [Character Ability] [Counter]
+             Use for refining purposes.
+Location    :Defeat Ultima Weapon in Deep Sea Deposit, which is the
+             basement at Deep Sea Research Center. [Deep Sea Research
+             Centre.] It is found in the most Southwest part of the
+             World Map and can only be accessed by the Ragnarok.
+Statistics  :   4
+              A   4
+                A
+=======================================================================
+  Level 10 Player Card
+=======================================================================
+Name        :Ward
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Gaea's Ring.
+Usage       :Has the effect of HP + 80%. [Character Ability]
+             Use for refining purposes.
+Location    :Win against Doctor Odine at Esthar Palace/Laboratory in
+             disc three.
+Statistics  :   A
+              8   7
+                2
+-----------------------------------------------------------------------
+Name        :Kiros
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Accelerators.
+Usage       :Automatically cast haste on the character during battle.
+             [Character Ability] [Auto-Haste]
+             Use for refining purposes.
+Location    :From the man wearing black in colour in Deling City,
+             which is Galbadia Capital. [Must take part in Card Queen
+             Quest.]
+Statistics  :   6
+              A   7
+                6
+-----------------------------------------------------------------------
+Name        :Laguna
+Elemental   :N/A
+Card Mod    :1x will refine into 100x Heroes.
+Usage       :Makes one invincible for a short duration and makes the
+             ally immune to all physical and magic attacks when used
+             during battles.
+             Use for refining purposes.
+Location    :Defeat Ellone at Lunar Base in disc three to get
+             Laguna's card.
+Statistics  :   5
+              9   A
+                3
+-----------------------------------------------------------------------
+Name        :Selphie
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Elem Guards.
+Usage       :Allows you to junction elemental magic to elemental
+             defense. [G.F Junction Ability]
+             Use for refining purposes.
+Location    :Go to Trabia Garden, Selphie's former military school.
+             Challenge Selphie's friend, who is sitting in front
+             of the fountain to get Selphie's card from disc two to
+             disc three.
+Statistics  :   A
+              4   8
+                6
+-----------------------------------------------------------------------
+Name        :Quistis
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Samantha Souls.
+Usage       :Has the effect of SumMag + 40% [G.F Ability]
+             Use for refining purposes.
+Location    :Defeat the student, Trepe Groupie #2 in the Cafeteria
+             who is sitting down on a chair. Select the one in the
+             back. You can do this from disc one to disc three. You
+             can also find Trepe Groupie #2 occasionally in the
+             second-floor of the classroom.
+Statistics  :   9
+              2   6
+                A
+-----------------------------------------------------------------------
+Name        :Irvine
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Rocket Engines.
+Usage       :Has the effect of Spd + 40%. [Character Ability]
+             Use for refining purposes.
+Location    :From the woman who is the station master of Fisherman's
+             Horizon. [FH Area] [Must take part in Card Queen Quest.]
+Statistics  :   2
+              A   6
+                9
+-----------------------------------------------------------------------
+Name        :Zell
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Hyper Wrists.
+Usage       :Has the effect of Str + 60%. [Character Ability]
+             Use for refining purposes.
+Locaton     :Defeat Zell's mother in Balamb Town from disc one to disc
+             three. Zell's mother is inside her house at the kitchen.
+             Defeat Zell's mother to get Zell's card.
+Statistics  :   8
+              6   5
+                A
+-----------------------------------------------------------------------
+Name        :Rinoa
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Magic Armlets.
+Usage       :Has the effect of Spr + 60%. [Character Ability]
+             Use for refining purposes.
+Location    :Go to Deling City, capital of Galbadia. Talk to General
+             Caraway, Rinoa's father in the huge mansion. Ask him
+             some questions regarding cards and then challenge him
+             to a game. Deliberately lose the Ifrit's card to him
+             and you will get Rinoa's card. To get back your Ifrit's
+             card, simply head to Fisherman's Horizon, [FH Area]
+             and challenge Martine, who is sitting outside Mayor
+             Dobe's house. Win Ifrit's card from Martine.
+Statistics  :   4
+              A   A
+                2
+-----------------------------------------------------------------------
+Name        :Edea
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Royal Crowns.
+Usage       :Has the effect of Mag + 60%. [Character Ability]
+             Use for refining purposes.
+Location    :Defeat Edea at Edea's house in disc 3.
+Statistics  :   A
+              3   A
+                3
+-----------------------------------------------------------------------
+Name        :Seifer
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Diamond Armors.
+Usage       :Has the effect of GFHP + 40%. [G.F Ability]
+             Use for refining purposes.
+Location    :Defeat Headmaster Cid in Edea's house from disc two to
+             disc three to get Seifer's card. Also, right after
+             defeating Norg in disc two, you can find Headmaster,
+             Cid in the bridge or cockpit of Balamb Garden.
+Statistics  :   6
+              4   9
+                A
+-----------------------------------------------------------------------
+Name        :Squall
+Elemental   :N/A
+Card Mod    :1x will refine into 3x Three Stars.
+             Use for refining purposes.
+Usage       :After casting Triple, one spell is being used up instead
+             of three during battles. [Character Ability] [Expendx3-1]
+Location    :Defeat Laguna at Esthar or on the Ragnarok before going
+             to Lunatic Pandora at disc 3.
+Statistics  :   A
+              9   6
+                4
+-----------------------------------------------------------------------
