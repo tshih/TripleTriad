@@ -43,7 +43,7 @@ Usage       :Has the effect of Spr + 20%. [Character Ability]
              Use for refining purposes.
 Statistics  :   2
               5   3
-                1 
+                1
 -----------------------------------------------------------------------
 Name        :Gayla
 Elemental   :Thunder
@@ -119,7 +119,7 @@ Statistics  :   6
               3   2
                 2
 -----------------------------------------------------------------------
-Name        :Mermerize
+Name        :Mesmerize
 Elemental   :N/A
 Card Mod    :1x will refine into 1x Mesmerize Blade.
 Usage       :Use as Junk Material for upgrading of weapons.
@@ -261,7 +261,7 @@ Statistics  :   5
               3   6
                 3
 -----------------------------------------------------------------------
-Name        :SAMo8G
+Name        :SAM08G
 Elemental   :Fire
 Card Mod    :1x will refine into 1x Running Fire.
 Usage       :Learns Blue Magic. [Gatling Gun] [Quistis's Limit Break]
@@ -521,7 +521,7 @@ Statistics  :   4
               4   6
                 7
 -----------------------------------------------------------------------
-Name        :Wedge, Biggs
+Name        : BiggsWedge
 Elemental   :N/A
 Card Mod    :1x will refine into 1x X-Potion.
 Usage       :Restores HP to one ally.
@@ -532,7 +532,7 @@ Statistics  :   6
 =======================================================================
   Level 6 Boss Card
 =======================================================================
-Name        :Fujin, Raijin
+Name        :FujinRaijin
 Elemental   :N/A
 Card Mod    :1x will refine into 1x X-Potion.
 Usage       :Restores HP to one ally.
@@ -588,7 +588,7 @@ Statistics  :   8
               2   2
                 8
 -----------------------------------------------------------------------
-Name        :Abadon
+Name        :Abaddon
 Elemental   :N/A
 Card Mod    :1x will refine into 30x Dark Ammo.
 Usage       :Ammos for Dark Shot. [Irvine's Limit Break]
@@ -685,7 +685,7 @@ Statistics  :   8
               3   6
                 7
 -----------------------------------------------------------------------
-Name        :Sphinxara
+Name        :Sphinxaur
 Elemental   :N/A
 Card Mod    :1x will refine into 1x G-Mega-Potion.
 Usage       :Recovers 1000HP to all G.Fs.
@@ -766,7 +766,7 @@ Usage       :Restores all HP and cures all status ailments to an ally.
 Location    :Defeat Watts in disc one during Forest Owls event, that
              is when you are in Timber Train and about to kidnap the
              President of Deling, or in white SeeD ship during disc
-             three. 
+             three.
 Statistics  :   9
               3   6
                 7
@@ -878,7 +878,7 @@ Usage       :Use as Junk Material for upgrading of weapons.
              Improves Compatibility. [Brothers + 3]
              Use for refining purposes.
 Location    :Defeat Guardian Force, G.F Brothers in the Tomb of
-             Unknown king to get Sacred and Minotaurs' cards. 
+             Unknown king to get Sacred and Minotaurs' cards.
 Statistics  :   5
               9   1
                 9
@@ -907,7 +907,7 @@ Location    :Take part in Card Club Quest and defeat CC Heart. CC
              Heart is Xu, and is in the cockpit. Defeat her to
              get Carbuncle's card.
 Statistics  :   8
-              4   4 
+              4   4
                 A
 -----------------------------------------------------------------------
 Name        :Diablos
@@ -919,7 +919,7 @@ Location    :Use Magical Lamp given by Principal Cid and you will
              encounter a fight with Guardian Force, G.F Diablos.
              Defeat Guardian Force, G.F Diablos to get Diablos
              card.
-Statistics  :   5 
+Statistics  :   5
               3   A
                 8
 -----------------------------------------------------------------------
