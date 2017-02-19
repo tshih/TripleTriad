@@ -1,9 +1,13 @@
 package deck
 
-import "fmt"
+import (
+	"encoding/json"
+	"fmt"
+	"io/ioutil"
+)
 
 type Card struct {
-	cardID  int
+	CardID  int
 	Name    string
 	ImgName string
 	Level   int
@@ -11,6 +15,21 @@ type Card struct {
 	Right   int
 	Down    int
 	Left    int
+}
+
+var cardList []Card
+var DataPath = "./../data/"
+var imgPath = "./../img/"
+var jsonName = "cardData.json"
+
+func loadCard() {
+	bytes, err := ioutil.ReadFile(DataPath + jsonName)
+	if err != nil {
+		panic("Cards not found")
+	}
+	cards := make([]Card, 0, 110)
+	json.Unmarshal(bytes, cards)
+
 }
 
 func (c Card) String() string {
@@ -30,7 +49,7 @@ func (d Direction) String() string {
 	if d == Right {
 		return "Right"
 	}
-	return "Invalid"
+	return "Invalid Direction"
 }
 
 type Direction int

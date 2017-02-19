@@ -48,13 +48,13 @@ func CreateCardJSON() int {
 
 	for _, level := range levels {
 		for _, cardName := range level.cards {
-			card := deck.Card{ImgName: cardName, Level: level.level, Name: cardName[2 : len(cardName)-4]}
+			card := deck.Card{ImgName: cardName, Level: level.level, Name: cardName[2 : len(cardName)-4], CardID: len(cards)}
 			AddStats(&card, statMap)
 			cards = append(cards, card)
 		}
 	}
 
-	bytes, err := json.Marshal(cards)
+	bytes, err := json.MarshalIndent(cards, "", "\t")
 	err = ioutil.WriteFile(DataPath+jsonName, bytes, os.ModePerm)
 
 	return len(cards)
@@ -149,7 +149,10 @@ func AddStats(card *deck.Card, stats map[string][]int) {
 	if !found {
 		fmt.Printf("%v\n", card.Name)
 	} else {
-		fmt.Println(vals)
+		card.Up = vals[0]
+		card.Left = vals[1]
+		card.Right = vals[2]
+		card.Down = vals[3]
 	}
 }
 

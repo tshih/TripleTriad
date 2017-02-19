@@ -1,1 +1,1102 @@
-[{"Name":"BiteBug","ImgName":"TTBiteBug.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Blobra","ImgName":"TTBlobra.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"BloudSoul","ImgName":"TTBloudSoul.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Caterchipillar","ImgName":"TTCaterchipillar.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Cockatrice","ImgName":"TTCockatrice.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"FastitocalonF","ImgName":"TTFastitocalonF.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Funguar","ImgName":"TTFunguar.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Gayla","ImgName":"TTGayla.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Geezard","ImgName":"TTGeezard.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Gesper","ImgName":"TTGesper.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"RedBat","ImgName":"TTRedBat.png","Level":1,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Edea","ImgName":"TTEdea.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Irvine","ImgName":"TTIrvine.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Kiros","ImgName":"TTKiros.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Laguna","ImgName":"TTLaguna.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Quistis","ImgName":"TTQuistis.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Rinoa","ImgName":"TTRinoa.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Seifer","ImgName":"TTSeifer.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Selphie","ImgName":"TTSelphie.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Squall","ImgName":"TTSquall.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Ward","ImgName":"TTWard.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Zell","ImgName":"TTZell.png","Level":10,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Anacondaur","ImgName":"TTAnacondaur.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Belhelmel","ImgName":"TTBelhelmel.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Buel","ImgName":"TTBuel.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Creeps","ImgName":"TTCreeps.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"GlacialEye","ImgName":"TTGlacialEye.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"GrandMantis","ImgName":"TTGrandMantis.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Grat","ImgName":"TTGrat.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Grendel","ImgName":"TTGrendel.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Jelleye","ImgName":"TTJelleye.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Mesmerize","ImgName":"TTMesmerize.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Thrustaevis","ImgName":"TTThrustaevis.png","Level":2,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"AbyssWorm","ImgName":"TTAbyssWorm.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Armadodo","ImgName":"TTArmadodo.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Cactuar","ImgName":"TTCactuar.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"DeathClaw","ImgName":"TTDeathClaw.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Fastitocalon","ImgName":"TTFastitocalon.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Forbidden","ImgName":"TTForbidden.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Ochu","ImgName":"TTOchu.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"SAM08G","ImgName":"TTSAM08G.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"SnowLion","ImgName":"TTSnowLion.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Tonberry","ImgName":"TTTonberry.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"TriFace","ImgName":"TTTriFace.png","Level":3,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Adamantoise","ImgName":"TTAdamantoise.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Blitz","ImgName":"TTBlitz.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"BlueDragon","ImgName":"TTBlueDragon.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Bomb","ImgName":"TTBomb.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Hexadragon","ImgName":"TTHexadragon.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Imp","ImgName":"TTImp.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"TRexaur","ImgName":"TTTRexaur.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Torama","ImgName":"TTTorama.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Turtapod","ImgName":"TTTurtapod.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Vysage","ImgName":"TTVysage.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Wendigo","ImgName":"TTWendigo.png","Level":4,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Behemoth","ImgName":"TTBehemoth.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"BiggsWedge","ImgName":"TTBiggsWedge.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Chimera","ImgName":"TTChimera.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Elastoid","ImgName":"TTElastoid.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Elnoyle","ImgName":"TTElnoyle.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"GIM47N","ImgName":"TTGIM47N.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"IronGiant","ImgName":"TTIronGiant.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Malboro","ImgName":"TTMalboro.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"PuPu","ImgName":"TTPuPu.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"RubyDragon","ImgName":"TTRubyDragon.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"TonberryKing","ImgName":"TTTonberryKing.png","Level":5,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Abaddon","ImgName":"TTAbaddon.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Elvoret","ImgName":"TTElvoret.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"FujinRaijin","ImgName":"TTFujinRaijin.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Gerogero","ImgName":"TTGerogero.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Granaldo","ImgName":"TTGranaldo.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Iguion","ImgName":"TTIguion.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Krysta","ImgName":"TTKrysta.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"NORG","ImgName":"TTNORG.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Oilboyle","ImgName":"TTOilboyle.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Trauma","ImgName":"TTTrauma.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"X-ATM092","ImgName":"TTX-ATM092.png","Level":6,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"BGH251F2","ImgName":"TTBGH251F2.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Catoblepas","ImgName":"TTCatoblepas.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Gargantua","ImgName":"TTGargantua.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"JumboCactuar","ImgName":"TTJumboCactuar.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"MobileType8","ImgName":"TTMobileType8.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Propagator","ImgName":"TTPropagator.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"RedGiant","ImgName":"TTRedGiant.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Sphinxaur","ImgName":"TTSphinxaur.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Tiamat","ImgName":"TTTiamat.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"TriPoint","ImgName":"TTTriPoint.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"UltimaWeapon","ImgName":"TTUltimaWeapon.png","Level":7,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Angelo","ImgName":"TTAngelo.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Chocobo","ImgName":"TTChocobo.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"ChubbyChocobo","ImgName":"TTChubbyChocobo.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Gilgamesh","ImgName":"TTGilgamesh.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Ifrit","ImgName":"TTIfrit.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"MiniMog","ImgName":"TTMiniMog.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Minotaur","ImgName":"TTMinotaur.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Quezacotl","ImgName":"TTQuezacotl.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Sacred","ImgName":"TTSacred.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Shiva","ImgName":"TTShiva.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Siren","ImgName":"TTSiren.png","Level":8,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Alexander","ImgName":"TTAlexander.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Bahamut","ImgName":"TTBahamut.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Carbuncle","ImgName":"TTCarbuncle.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Cerberus","ImgName":"TTCerberus.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Diablos","ImgName":"TTDiablos.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Doomtrain","ImgName":"TTDoomtrain.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Eden","ImgName":"TTEden.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Leviathan","ImgName":"TTLeviathan.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Odin","ImgName":"TTOdin.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Pandemona","ImgName":"TTPandemona.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0},{"Name":"Phoenix","ImgName":"TTPhoenix.png","Level":9,"Up":0,"Right":0,"Down":0,"Left":0}]
+[
+	{
+		"CardID": 0,
+		"Name": "BiteBug",
+		"ImgName": "TTBiteBug.png",
+		"Level": 1,
+		"Up": 1,
+		"Right": 3,
+		"Down": 3,
+		"Left": 5
+	},
+	{
+		"CardID": 1,
+		"Name": "Blobra",
+		"ImgName": "TTBlobra.png",
+		"Level": 1,
+		"Up": 2,
+		"Right": 3,
+		"Down": 1,
+		"Left": 5
+	},
+	{
+		"CardID": 2,
+		"Name": "BloodSoul",
+		"ImgName": "TTBloodSoul.png",
+		"Level": 1,
+		"Up": 2,
+		"Right": 1,
+		"Down": 6,
+		"Left": 1
+	},
+	{
+		"CardID": 3,
+		"Name": "Caterchipillar",
+		"ImgName": "TTCaterchipillar.png",
+		"Level": 1,
+		"Up": 4,
+		"Right": 2,
+		"Down": 4,
+		"Left": 3
+	},
+	{
+		"CardID": 4,
+		"Name": "Cockatrice",
+		"ImgName": "TTCockatrice.png",
+		"Level": 1,
+		"Up": 2,
+		"Right": 1,
+		"Down": 2,
+		"Left": 6
+	},
+	{
+		"CardID": 5,
+		"Name": "FastitocalonF",
+		"ImgName": "TTFastitocalonF.png",
+		"Level": 1,
+		"Up": 3,
+		"Right": 5,
+		"Down": 2,
+		"Left": 1
+	},
+	{
+		"CardID": 6,
+		"Name": "Funguar",
+		"ImgName": "TTFunguar.png",
+		"Level": 1,
+		"Up": 5,
+		"Right": 1,
+		"Down": 1,
+		"Left": 3
+	},
+	{
+		"CardID": 7,
+		"Name": "Gayla",
+		"ImgName": "TTGayla.png",
+		"Level": 1,
+		"Up": 2,
+		"Right": 1,
+		"Down": 4,
+		"Left": 4
+	},
+	{
+		"CardID": 8,
+		"Name": "Geezard",
+		"ImgName": "TTGeezard.png",
+		"Level": 1,
+		"Up": 1,
+		"Right": 4,
+		"Down": 1,
+		"Left": 5
+	},
+	{
+		"CardID": 9,
+		"Name": "Gesper",
+		"ImgName": "TTGesper.png",
+		"Level": 1,
+		"Up": 1,
+		"Right": 5,
+		"Down": 4,
+		"Left": 1
+	},
+	{
+		"CardID": 10,
+		"Name": "RedBat",
+		"ImgName": "TTRedBat.png",
+		"Level": 1,
+		"Up": 6,
+		"Right": 1,
+		"Down": 1,
+		"Left": 2
+	},
+	{
+		"CardID": 11,
+		"Name": "Edea",
+		"ImgName": "TTEdea.png",
+		"Level": 10,
+		"Up": 10,
+		"Right": 10,
+		"Down": 3,
+		"Left": 3
+	},
+	{
+		"CardID": 12,
+		"Name": "Irvine",
+		"ImgName": "TTIrvine.png",
+		"Level": 10,
+		"Up": 2,
+		"Right": 6,
+		"Down": 9,
+		"Left": 10
+	},
+	{
+		"CardID": 13,
+		"Name": "Kiros",
+		"ImgName": "TTKiros.png",
+		"Level": 10,
+		"Up": 6,
+		"Right": 7,
+		"Down": 6,
+		"Left": 10
+	},
+	{
+		"CardID": 14,
+		"Name": "Laguna",
+		"ImgName": "TTLaguna.png",
+		"Level": 10,
+		"Up": 5,
+		"Right": 10,
+		"Down": 3,
+		"Left": 9
+	},
+	{
+		"CardID": 15,
+		"Name": "Quistis",
+		"ImgName": "TTQuistis.png",
+		"Level": 10,
+		"Up": 9,
+		"Right": 6,
+		"Down": 10,
+		"Left": 2
+	},
+	{
+		"CardID": 16,
+		"Name": "Rinoa",
+		"ImgName": "TTRinoa.png",
+		"Level": 10,
+		"Up": 4,
+		"Right": 10,
+		"Down": 2,
+		"Left": 10
+	},
+	{
+		"CardID": 17,
+		"Name": "Seifer",
+		"ImgName": "TTSeifer.png",
+		"Level": 10,
+		"Up": 6,
+		"Right": 9,
+		"Down": 10,
+		"Left": 4
+	},
+	{
+		"CardID": 18,
+		"Name": "Selphie",
+		"ImgName": "TTSelphie.png",
+		"Level": 10,
+		"Up": 10,
+		"Right": 8,
+		"Down": 6,
+		"Left": 4
+	},
+	{
+		"CardID": 19,
+		"Name": "Squall",
+		"ImgName": "TTSquall.png",
+		"Level": 10,
+		"Up": 10,
+		"Right": 4,
+		"Down": 6,
+		"Left": 9
+	},
+	{
+		"CardID": 20,
+		"Name": "Ward",
+		"ImgName": "TTWard.png",
+		"Level": 10,
+		"Up": 10,
+		"Right": 7,
+		"Down": 2,
+		"Left": 8
+	},
+	{
+		"CardID": 21,
+		"Name": "Zell",
+		"ImgName": "TTZell.png",
+		"Level": 10,
+		"Up": 8,
+		"Right": 5,
+		"Down": 10,
+		"Left": 6
+	},
+	{
+		"CardID": 22,
+		"Name": "Anacondaur",
+		"ImgName": "TTAnacondaur.png",
+		"Level": 2,
+		"Up": 5,
+		"Right": 1,
+		"Down": 3,
+		"Left": 5
+	},
+	{
+		"CardID": 23,
+		"Name": "Belhelmel",
+		"ImgName": "TTBelhelmel.png",
+		"Level": 2,
+		"Up": 3,
+		"Right": 4,
+		"Down": 5,
+		"Left": 3
+	},
+	{
+		"CardID": 24,
+		"Name": "Buel",
+		"ImgName": "TTBuel.png",
+		"Level": 2,
+		"Up": 6,
+		"Right": 2,
+		"Down": 2,
+		"Left": 3
+	},
+	{
+		"CardID": 25,
+		"Name": "Creeps",
+		"ImgName": "TTCreeps.png",
+		"Level": 2,
+		"Up": 5,
+		"Right": 2,
+		"Down": 5,
+		"Left": 2
+	},
+	{
+		"CardID": 26,
+		"Name": "GlacialEye",
+		"ImgName": "TTGlacialEye.png",
+		"Level": 2,
+		"Up": 6,
+		"Right": 1,
+		"Down": 4,
+		"Left": 3
+	},
+	{
+		"CardID": 27,
+		"Name": "GrandMantis",
+		"ImgName": "TTGrandMantis.png",
+		"Level": 2,
+		"Up": 5,
+		"Right": 2,
+		"Down": 5,
+		"Left": 3
+	},
+	{
+		"CardID": 28,
+		"Name": "Grat",
+		"ImgName": "TTGrat.png",
+		"Level": 2,
+		"Up": 7,
+		"Right": 1,
+		"Down": 3,
+		"Left": 1
+	},
+	{
+		"CardID": 29,
+		"Name": "Grendel",
+		"ImgName": "TTGrendel.png",
+		"Level": 2,
+		"Up": 4,
+		"Right": 4,
+		"Down": 5,
+		"Left": 2
+	},
+	{
+		"CardID": 30,
+		"Name": "Jelleye",
+		"ImgName": "TTJelleye.png",
+		"Level": 2,
+		"Up": 3,
+		"Right": 2,
+		"Down": 1,
+		"Left": 7
+	},
+	{
+		"CardID": 31,
+		"Name": "Mesmerize",
+		"ImgName": "TTMesmerize.png",
+		"Level": 2,
+		"Up": 5,
+		"Right": 3,
+		"Down": 3,
+		"Left": 4
+	},
+	{
+		"CardID": 32,
+		"Name": "Thrustaevis",
+		"ImgName": "TTThrustaevis.png",
+		"Level": 2,
+		"Up": 5,
+		"Right": 3,
+		"Down": 2,
+		"Left": 5
+	},
+	{
+		"CardID": 33,
+		"Name": "AbyssWorm",
+		"ImgName": "TTAbyssWorm.png",
+		"Level": 3,
+		"Up": 7,
+		"Right": 2,
+		"Down": 3,
+		"Left": 5
+	},
+	{
+		"CardID": 34,
+		"Name": "Armadodo",
+		"ImgName": "TTArmadodo.png",
+		"Level": 3,
+		"Up": 6,
+		"Right": 3,
+		"Down": 1,
+		"Left": 6
+	},
+	{
+		"CardID": 35,
+		"Name": "Cactuar",
+		"ImgName": "TTCactuar.png",
+		"Level": 3,
+		"Up": 6,
+		"Right": 2,
+		"Down": 6,
+		"Left": 3
+	},
+	{
+		"CardID": 36,
+		"Name": "DeathClaw",
+		"ImgName": "TTDeathClaw.png",
+		"Level": 3,
+		"Up": 4,
+		"Right": 4,
+		"Down": 7,
+		"Left": 2
+	},
+	{
+		"CardID": 37,
+		"Name": "Fastitocalon",
+		"ImgName": "TTFastitocalon.png",
+		"Level": 3,
+		"Up": 7,
+		"Right": 5,
+		"Down": 1,
+		"Left": 3
+	},
+	{
+		"CardID": 38,
+		"Name": "Forbidden",
+		"ImgName": "TTForbidden.png",
+		"Level": 3,
+		"Up": 6,
+		"Right": 6,
+		"Down": 3,
+		"Left": 2
+	},
+	{
+		"CardID": 39,
+		"Name": "Ochu",
+		"ImgName": "TTOchu.png",
+		"Level": 3,
+		"Up": 5,
+		"Right": 6,
+		"Down": 3,
+		"Left": 3
+	},
+	{
+		"CardID": 40,
+		"Name": "SAM08G",
+		"ImgName": "TTSAM08G.png",
+		"Level": 3,
+		"Up": 5,
+		"Right": 6,
+		"Down": 2,
+		"Left": 4
+	},
+	{
+		"CardID": 41,
+		"Name": "SnowLion",
+		"ImgName": "TTSnowLion.png",
+		"Level": 3,
+		"Up": 7,
+		"Right": 1,
+		"Down": 5,
+		"Left": 3
+	},
+	{
+		"CardID": 42,
+		"Name": "Tonberry",
+		"ImgName": "TTTonberry.png",
+		"Level": 3,
+		"Up": 3,
+		"Right": 6,
+		"Down": 4,
+		"Left": 4
+	},
+	{
+		"CardID": 43,
+		"Name": "TriFace",
+		"ImgName": "TTTriFace.png",
+		"Level": 3,
+		"Up": 3,
+		"Right": 5,
+		"Down": 5,
+		"Left": 5
+	},
+	{
+		"CardID": 44,
+		"Name": "Adamantoise",
+		"ImgName": "TTAdamantoise.png",
+		"Level": 4,
+		"Up": 4,
+		"Right": 5,
+		"Down": 5,
+		"Left": 6
+	},
+	{
+		"CardID": 45,
+		"Name": "Blitz",
+		"ImgName": "TTBlitz.png",
+		"Level": 4,
+		"Up": 1,
+		"Right": 6,
+		"Down": 4,
+		"Left": 7
+	},
+	{
+		"CardID": 46,
+		"Name": "BlueDragon",
+		"ImgName": "TTBlueDragon.png",
+		"Level": 4,
+		"Up": 6,
+		"Right": 2,
+		"Down": 7,
+		"Left": 3
+	},
+	{
+		"CardID": 47,
+		"Name": "Bomb",
+		"ImgName": "TTBomb.png",
+		"Level": 4,
+		"Up": 2,
+		"Right": 7,
+		"Down": 6,
+		"Left": 3
+	},
+	{
+		"CardID": 48,
+		"Name": "Hexadragon",
+		"ImgName": "TTHexadragon.png",
+		"Level": 4,
+		"Up": 7,
+		"Right": 5,
+		"Down": 4,
+		"Left": 3
+	},
+	{
+		"CardID": 49,
+		"Name": "Imp",
+		"ImgName": "TTImp.png",
+		"Level": 4,
+		"Up": 3,
+		"Right": 7,
+		"Down": 3,
+		"Left": 6
+	},
+	{
+		"CardID": 50,
+		"Name": "TRexaur",
+		"ImgName": "TTTRexaur.png",
+		"Level": 4,
+		"Up": 4,
+		"Right": 6,
+		"Down": 2,
+		"Left": 7
+	},
+	{
+		"CardID": 51,
+		"Name": "Torama",
+		"ImgName": "TTTorama.png",
+		"Level": 4,
+		"Up": 7,
+		"Right": 4,
+		"Down": 4,
+		"Left": 4
+	},
+	{
+		"CardID": 52,
+		"Name": "Turtapod",
+		"ImgName": "TTTurtapod.png",
+		"Level": 4,
+		"Up": 2,
+		"Right": 3,
+		"Down": 6,
+		"Left": 7
+	},
+	{
+		"CardID": 53,
+		"Name": "Vysage",
+		"ImgName": "TTVysage.png",
+		"Level": 4,
+		"Up": 6,
+		"Right": 5,
+		"Down": 4,
+		"Left": 5
+	},
+	{
+		"CardID": 54,
+		"Name": "Wendigo",
+		"ImgName": "TTWendigo.png",
+		"Level": 4,
+		"Up": 7,
+		"Right": 3,
+		"Down": 1,
+		"Left": 6
+	},
+	{
+		"CardID": 55,
+		"Name": "Behemoth",
+		"ImgName": "TTBehemoth.png",
+		"Level": 5,
+		"Up": 3,
+		"Right": 6,
+		"Down": 5,
+		"Left": 7
+	},
+	{
+		"CardID": 56,
+		"Name": "BiggsWedge",
+		"ImgName": "TTBiggsWedge.png",
+		"Level": 5,
+		"Up": 6,
+		"Right": 6,
+		"Down": 2,
+		"Left": 7
+	},
+	{
+		"CardID": 57,
+		"Name": "Chimera",
+		"ImgName": "TTChimera.png",
+		"Level": 5,
+		"Up": 7,
+		"Right": 6,
+		"Down": 5,
+		"Left": 3
+	},
+	{
+		"CardID": 58,
+		"Name": "Elastoid",
+		"ImgName": "TTElastoid.png",
+		"Level": 5,
+		"Up": 6,
+		"Right": 2,
+		"Down": 6,
+		"Left": 7
+	},
+	{
+		"CardID": 59,
+		"Name": "Elnoyle",
+		"ImgName": "TTElnoyle.png",
+		"Level": 5,
+		"Up": 5,
+		"Right": 3,
+		"Down": 7,
+		"Left": 6
+	},
+	{
+		"CardID": 60,
+		"Name": "GIM47N",
+		"ImgName": "TTGIM47N.png",
+		"Level": 5,
+		"Up": 5,
+		"Right": 5,
+		"Down": 7,
+		"Left": 4
+	},
+	{
+		"CardID": 61,
+		"Name": "IronGiant",
+		"ImgName": "TTIronGiant.png",
+		"Level": 5,
+		"Up": 6,
+		"Right": 5,
+		"Down": 6,
+		"Left": 5
+	},
+	{
+		"CardID": 62,
+		"Name": "Malboro",
+		"ImgName": "TTMalboro.png",
+		"Level": 5,
+		"Up": 7,
+		"Right": 7,
+		"Down": 4,
+		"Left": 2
+	},
+	{
+		"CardID": 63,
+		"Name": "PuPu",
+		"ImgName": "TTPuPu.png",
+		"Level": 5,
+		"Up": 3,
+		"Right": 10,
+		"Down": 2,
+		"Left": 1
+	},
+	{
+		"CardID": 64,
+		"Name": "RubyDragon",
+		"ImgName": "TTRubyDragon.png",
+		"Level": 5,
+		"Up": 7,
+		"Right": 2,
+		"Down": 7,
+		"Left": 4
+	},
+	{
+		"CardID": 65,
+		"Name": "TonberryKing",
+		"ImgName": "TTTonberryKing.png",
+		"Level": 5,
+		"Up": 4,
+		"Right": 6,
+		"Down": 7,
+		"Left": 4
+	},
+	{
+		"CardID": 66,
+		"Name": "Abaddon",
+		"ImgName": "TTAbaddon.png",
+		"Level": 6,
+		"Up": 6,
+		"Right": 8,
+		"Down": 4,
+		"Left": 5
+	},
+	{
+		"CardID": 67,
+		"Name": "Elvoret",
+		"ImgName": "TTElvoret.png",
+		"Level": 6,
+		"Up": 7,
+		"Right": 8,
+		"Down": 3,
+		"Left": 4
+	},
+	{
+		"CardID": 68,
+		"Name": "FujinRaijin",
+		"ImgName": "TTFujinRaijin.png",
+		"Level": 6,
+		"Up": 2,
+		"Right": 8,
+		"Down": 8,
+		"Left": 4
+	},
+	{
+		"CardID": 69,
+		"Name": "Gerogero",
+		"ImgName": "TTGerogero.png",
+		"Level": 6,
+		"Up": 1,
+		"Right": 8,
+		"Down": 8,
+		"Left": 3
+	},
+	{
+		"CardID": 70,
+		"Name": "Granaldo",
+		"ImgName": "TTGranaldo.png",
+		"Level": 6,
+		"Up": 7,
+		"Right": 2,
+		"Down": 8,
+		"Left": 5
+	},
+	{
+		"CardID": 71,
+		"Name": "Iguion",
+		"ImgName": "TTIguion.png",
+		"Level": 6,
+		"Up": 8,
+		"Right": 2,
+		"Down": 8,
+		"Left": 2
+	},
+	{
+		"CardID": 72,
+		"Name": "Krysta",
+		"ImgName": "TTKrysta.png",
+		"Level": 6,
+		"Up": 7,
+		"Right": 5,
+		"Down": 8,
+		"Left": 1
+	},
+	{
+		"CardID": 73,
+		"Name": "NORG",
+		"ImgName": "TTNORG.png",
+		"Level": 6,
+		"Up": 6,
+		"Right": 5,
+		"Down": 8,
+		"Left": 4
+	},
+	{
+		"CardID": 74,
+		"Name": "Oilboyle",
+		"ImgName": "TTOilboyle.png",
+		"Level": 6,
+		"Up": 1,
+		"Right": 8,
+		"Down": 4,
+		"Left": 8
+	},
+	{
+		"CardID": 75,
+		"Name": "Trauma",
+		"ImgName": "TTTrauma.png",
+		"Level": 6,
+		"Up": 4,
+		"Right": 8,
+		"Down": 5,
+		"Left": 6
+	},
+	{
+		"CardID": 76,
+		"Name": "X-ATM092",
+		"ImgName": "TTX-ATM092.png",
+		"Level": 6,
+		"Up": 4,
+		"Right": 8,
+		"Down": 7,
+		"Left": 3
+	},
+	{
+		"CardID": 77,
+		"Name": "BGH251F2",
+		"ImgName": "TTBGH251F2.png",
+		"Level": 7,
+		"Up": 5,
+		"Right": 7,
+		"Down": 8,
+		"Left": 5
+	},
+	{
+		"CardID": 78,
+		"Name": "Catoblepas",
+		"ImgName": "TTCatoblepas.png",
+		"Level": 7,
+		"Up": 1,
+		"Right": 8,
+		"Down": 7,
+		"Left": 7
+	},
+	{
+		"CardID": 79,
+		"Name": "Gargantua",
+		"ImgName": "TTGargantua.png",
+		"Level": 7,
+		"Up": 5,
+		"Right": 6,
+		"Down": 6,
+		"Left": 8
+	},
+	{
+		"CardID": 80,
+		"Name": "JumboCactuar",
+		"ImgName": "TTJumboCactuar.png",
+		"Level": 7,
+		"Up": 8,
+		"Right": 8,
+		"Down": 4,
+		"Left": 4
+	},
+	{
+		"CardID": 81,
+		"Name": "MobileType8",
+		"ImgName": "TTMobileType8.png",
+		"Level": 7,
+		"Up": 8,
+		"Right": 6,
+		"Down": 7,
+		"Left": 3
+	},
+	{
+		"CardID": 82,
+		"Name": "Propagator",
+		"ImgName": "TTPropagator.png",
+		"Level": 7,
+		"Up": 8,
+		"Right": 4,
+		"Down": 4,
+		"Left": 8
+	},
+	{
+		"CardID": 83,
+		"Name": "RedGiant",
+		"ImgName": "TTRedGiant.png",
+		"Level": 7,
+		"Up": 6,
+		"Right": 8,
+		"Down": 4,
+		"Left": 7
+	},
+	{
+		"CardID": 84,
+		"Name": "Sphinxaur",
+		"ImgName": "TTSphinxaur.png",
+		"Level": 7,
+		"Up": 8,
+		"Right": 3,
+		"Down": 5,
+		"Left": 8
+	},
+	{
+		"CardID": 85,
+		"Name": "Tiamat",
+		"ImgName": "TTTiamat.png",
+		"Level": 7,
+		"Up": 8,
+		"Right": 8,
+		"Down": 5,
+		"Left": 4
+	},
+	{
+		"CardID": 86,
+		"Name": "TriPoint",
+		"ImgName": "TTTriPoint.png",
+		"Level": 7,
+		"Up": 8,
+		"Right": 5,
+		"Down": 2,
+		"Left": 8
+	},
+	{
+		"CardID": 87,
+		"Name": "UltimaWeapon",
+		"ImgName": "TTUltimaWeapon.png",
+		"Level": 7,
+		"Up": 7,
+		"Right": 7,
+		"Down": 2,
+		"Left": 8
+	},
+	{
+		"CardID": 88,
+		"Name": "Angelo",
+		"ImgName": "TTAngelo.png",
+		"Level": 8,
+		"Up": 9,
+		"Right": 6,
+		"Down": 7,
+		"Left": 3
+	},
+	{
+		"CardID": 89,
+		"Name": "Chocobo",
+		"ImgName": "TTChocobo.png",
+		"Level": 8,
+		"Up": 9,
+		"Right": 4,
+		"Down": 8,
+		"Left": 4
+	},
+	{
+		"CardID": 90,
+		"Name": "ChubbyChocobo",
+		"ImgName": "TTChubbyChocobo.png",
+		"Level": 8,
+		"Up": 4,
+		"Right": 4,
+		"Down": 8,
+		"Left": 9
+	},
+	{
+		"CardID": 91,
+		"Name": "Gilgamesh",
+		"ImgName": "TTGilgamesh.png",
+		"Level": 8,
+		"Up": 3,
+		"Right": 7,
+		"Down": 9,
+		"Left": 6
+	},
+	{
+		"CardID": 92,
+		"Name": "Ifrit",
+		"ImgName": "TTIfrit.png",
+		"Level": 8,
+		"Up": 9,
+		"Right": 6,
+		"Down": 2,
+		"Left": 8
+	},
+	{
+		"CardID": 93,
+		"Name": "MiniMog",
+		"ImgName": "TTMiniMog.png",
+		"Level": 8,
+		"Up": 9,
+		"Right": 3,
+		"Down": 9,
+		"Left": 2
+	},
+	{
+		"CardID": 94,
+		"Name": "Minotaur",
+		"ImgName": "TTMinotaur.png",
+		"Level": 8,
+		"Up": 9,
+		"Right": 5,
+		"Down": 2,
+		"Left": 9
+	},
+	{
+		"CardID": 95,
+		"Name": "Quezacotl",
+		"ImgName": "TTQuezacotl.png",
+		"Level": 8,
+		"Up": 2,
+		"Right": 9,
+		"Down": 9,
+		"Left": 4
+	},
+	{
+		"CardID": 96,
+		"Name": "Sacred",
+		"ImgName": "TTSacred.png",
+		"Level": 8,
+		"Up": 5,
+		"Right": 1,
+		"Down": 9,
+		"Left": 9
+	},
+	{
+		"CardID": 97,
+		"Name": "Shiva",
+		"ImgName": "TTShiva.png",
+		"Level": 8,
+		"Up": 6,
+		"Right": 7,
+		"Down": 4,
+		"Left": 9
+	},
+	{
+		"CardID": 98,
+		"Name": "Siren",
+		"ImgName": "TTSiren.png",
+		"Level": 8,
+		"Up": 8,
+		"Right": 9,
+		"Down": 6,
+		"Left": 2
+	},
+	{
+		"CardID": 99,
+		"Name": "Alexander",
+		"ImgName": "TTAlexander.png",
+		"Level": 9,
+		"Up": 9,
+		"Right": 10,
+		"Down": 4,
+		"Left": 2
+	},
+	{
+		"CardID": 100,
+		"Name": "Bahamut",
+		"ImgName": "TTBahamut.png",
+		"Level": 9,
+		"Up": 10,
+		"Right": 8,
+		"Down": 2,
+		"Left": 6
+	},
+	{
+		"CardID": 101,
+		"Name": "Carbuncle",
+		"ImgName": "TTCarbuncle.png",
+		"Level": 9,
+		"Up": 8,
+		"Right": 4,
+		"Down": 10,
+		"Left": 4
+	},
+	{
+		"CardID": 102,
+		"Name": "Cerberus",
+		"ImgName": "TTCerberus.png",
+		"Level": 9,
+		"Up": 7,
+		"Right": 4,
+		"Down": 6,
+		"Left": 10
+	},
+	{
+		"CardID": 103,
+		"Name": "Diablos",
+		"ImgName": "TTDiablos.png",
+		"Level": 9,
+		"Up": 5,
+		"Right": 10,
+		"Down": 8,
+		"Left": 3
+	},
+	{
+		"CardID": 104,
+		"Name": "Doomtrain",
+		"ImgName": "TTDoomtrain.png",
+		"Level": 9,
+		"Up": 3,
+		"Right": 1,
+		"Down": 10,
+		"Left": 10
+	},
+	{
+		"CardID": 105,
+		"Name": "Eden",
+		"ImgName": "TTEden.png",
+		"Level": 9,
+		"Up": 4,
+		"Right": 4,
+		"Down": 10,
+		"Left": 10
+	},
+	{
+		"CardID": 106,
+		"Name": "Leviathan",
+		"ImgName": "TTLeviathan.png",
+		"Level": 9,
+		"Up": 7,
+		"Right": 10,
+		"Down": 1,
+		"Left": 7
+	},
+	{
+		"CardID": 107,
+		"Name": "Odin",
+		"ImgName": "TTOdin.png",
+		"Level": 9,
+		"Up": 8,
+		"Right": 10,
+		"Down": 3,
+		"Left": 5
+	},
+	{
+		"CardID": 108,
+		"Name": "Pandemona",
+		"ImgName": "TTPandemona.png",
+		"Level": 9,
+		"Up": 10,
+		"Right": 1,
+		"Down": 7,
+		"Left": 7
+	},
+	{
+		"CardID": 109,
+		"Name": "Phoenix",
+		"ImgName": "TTPhoenix.png",
+		"Level": 9,
+		"Up": 7,
+		"Right": 2,
+		"Down": 7,
+		"Left": 10
+	}
+]
