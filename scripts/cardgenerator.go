@@ -15,21 +15,34 @@ import (
 	"github.com/tshih/tripletriad/deck"
 )
 
+//DataPath path to data folder
 var DataPath = "./../data/"
-var imgPath = "./../img/"
+
+//ImgPath path to img folder
+var ImgPath = "./../img/"
+
 var jsonName = "cardData.json"
 
+//Level contains cards for a given level
 type Level struct {
 	level int
 	cards []string
 }
 
-func (l *Level) AddCard(cardName string) {
+type statData struct {
+	name  string
+	stats []int
+}
+
+//Adds a card to the given Level
+func (l *Level) addCard(cardName string) {
 	l.cards = append(l.cards, cardName)
 }
 
+//CreateCardJSON creates Triple Triad card data using the images in img and
+//a given text file with card stats
 func CreateCardJSON() int {
-	levelDirs, err := ioutil.ReadDir(imgPath)
+	levelDirs, err := ioutil.ReadDir(ImgPath)
 
 	if err != nil {
 		log.Fatal(err)
@@ -38,14 +51,11 @@ func CreateCardJSON() int {
 	if val, _ := exists(DataPath + jsonName); val {
 		os.RemoveAll(DataPath + jsonName)
 	}
-	//os.MkdirAll(DataPath, os.ModeDir)
 
 	levels := GenerateLevels(levelDirs)
-
-	cards := make([]deck.Card, 0, 110)
-
 	statMap := ParseStats(DataPath + "stats.txt")
 
+	cards := make([]deck.Card, 0, 110)
 	for _, level := range levels {
 		for _, cardName := range level.cards {
 			card := deck.Card{ImgName: cardName, Level: level.level, Name: cardName[2 : len(cardName)-4], CardID: len(cards)}
@@ -58,16 +68,16 @@ func CreateCardJSON() int {
 	err = ioutil.WriteFile(DataPath+jsonName, bytes, os.ModePerm)
 
 	return len(cards)
-	//names, err := os.Readdirnames(-1)
 }
 
+//GenerateLevels Generates the Level structs from a slice of img directories
 func GenerateLevels(dirs []os.FileInfo) []Level {
 
 	levels := make([]Level, 0, 10)
 
 	for _, level := range dirs {
 
-		files, err := ioutil.ReadDir(imgPath + level.Name())
+		files, err := ioutil.ReadDir(ImgPath + level.Name())
 		levelInt, err := strconv.Atoi(level.Name()[5:])
 
 		if err != nil {
@@ -77,7 +87,7 @@ func GenerateLevels(dirs []os.FileInfo) []Level {
 		currLevel := Level{level: levelInt, cards: []string{}}
 
 		for _, file := range files {
-			currLevel.AddCard(file.Name())
+			currLevel.addCard(file.Name())
 		}
 
 		levels = append(levels, currLevel)
@@ -85,13 +95,14 @@ func GenerateLevels(dirs []os.FileInfo) []Level {
 	return levels
 }
 
-func ParseStats(filePath string) map[string][]int {
+//ParseStats parses data file for card stats
+func ParseStats(filePath string) map[string]statData {
 
 	file, err := os.Open(filePath)
 	if err != nil {
 		log.Fatal(err)
 	}
-	statMap := make(map[string][]int)
+	statMap := make(map[string]statData)
 
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
@@ -105,38 +116,28 @@ func ParseStats(filePath string) map[string][]int {
 				line2 := scanner.Text()
 				if strings.HasPrefix(line2, "Statistics") {
 					line = strings.Split(line2, ":")[1]
-					top, err1 := ConvertValue(line)
-					if err1 != nil {
-						log.Fatal(err1.Error())
-					}
-					stats = append(stats, top)
+					stats = append(stats, extractStat(line))
 
 					//line 2
 					scanner.Scan()
 					line2 = scanner.Text()
 					leftRight := strings.Split(strings.TrimSpace(line2), " ")
 					for _, str := range leftRight {
-						val, err2 := ConvertValue(str)
-						if err2 != nil {
-							continue
+						if len(str) > 0 {
+							val := extractStat(str)
+							if val <= 0 {
+								log.Fatal("Attempted to convert bad value")
+							}
+							stats = append(stats, val)
 						}
-						stats = append(stats, val)
 					}
-
 					scanner.Scan()
-					line2 = scanner.Text()
-					down, err3 := ConvertValue(line2)
-					if err3 != nil {
-						log.Fatal(err3)
-					}
-					stats = append(stats, down)
+					stats = append(stats, extractStat(scanner.Text()))
 					break
 				}
-
 			}
-			//fmt.Println(stats)
-			//fmt.Println(StripSpace(vals[1]))
-			statMap[StripSpace(vals[1])] = stats
+
+			statMap[StripSpace(vals[1])] = statData{name: strings.TrimSpace(vals[1]), stats: stats}
 		}
 	}
 
@@ -144,18 +145,21 @@ func ParseStats(filePath string) map[string][]int {
 
 }
 
-func AddStats(card *deck.Card, stats map[string][]int) {
+//AddStats Add stats from a map to the card
+func AddStats(card *deck.Card, stats map[string]statData) {
 	vals, found := stats[card.Name]
 	if !found {
 		fmt.Printf("%v\n", card.Name)
 	} else {
-		card.Up = vals[0]
-		card.Left = vals[1]
-		card.Right = vals[2]
-		card.Down = vals[3]
+		card.Up = vals.stats[0]
+		card.Left = vals.stats[1]
+		card.Right = vals.stats[2]
+		card.Down = vals.stats[3]
+		card.Name = vals.name
 	}
 }
 
+//ConvertValue converts value
 func ConvertValue(str string) (int, error) {
 	if len(str) == 0 {
 		return -1, errors.New("str length is 0")
@@ -186,9 +190,19 @@ func exists(path string) (bool, error) {
 	return true, err
 }
 
+func extractStat(str string) int {
+	stat, err := ConvertValue(str)
+	if err != nil {
+		log.Println("Error converting string to card value")
+		return -1
+	}
+	return stat
+}
+
+//StripSpace strips spaces and -
 func StripSpace(str string) string {
 	return strings.Map(func(r rune) rune {
-		if unicode.IsSpace(r) || unicode.IsSymbol(r) {
+		if unicode.IsSpace(r) || r == '-' {
 			return -1
 		}
 		return r

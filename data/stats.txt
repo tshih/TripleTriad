@@ -521,6 +521,7 @@ Statistics  :   4
               4   6
                 7
 -----------------------------------------------------------------------
+
 Name        :BiggsWedge
 Elemental   :N/A
 Card Mod    :1x will refine into 1x X-Potion.

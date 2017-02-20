@@ -12,6 +12,7 @@ import (
 	"golang.org/x/net/html"
 )
 
+//Scrape scrapes
 func Scrape() {
 	pageReader, _ := getPage("http://finalfantasy.wikia.com/wiki/List_of_Final_Fantasy_VIII_Triple_Triad_cards")
 	wd, _ := os.Getwd()
@@ -19,6 +20,7 @@ func Scrape() {
 	ParsePage(pageReader)
 }
 
+//
 func getPage(url string) (io.Reader, error) {
 	resp, err := http.Get(url)
 	if err != nil {
@@ -27,12 +29,14 @@ func getPage(url string) (io.Reader, error) {
 	return resp.Body, nil
 }
 
+//ParsePage parses
 func ParsePage(pageReader io.Reader) error {
 	tk := html.NewTokenizer(pageReader)
 	findCardTable(tk)
 	return nil
 }
 
+//SearchPageForAnchor searches
 func SearchPageForAnchor(tk *html.Tokenizer, anchFunc AnchorActor) error {
 loop:
 	for {
@@ -67,14 +71,20 @@ func checkAttribute(attrs []html.Attribute, key string, attrVal string) (bool, s
 	return false, ""
 }
 
+//AnchorEval is a
 type AnchorEval func(html.Token) bool
+
+//AnchorAction action
 type AnchorAction func(*html.Tokenizer, html.Token)
+
+//AnchorActor actor
 type AnchorActor struct {
 	Evaluator   AnchorEval
 	Action      AnchorAction
 	stopOnFound AnchorEval
 }
 
+//
 func isTable() AnchorEval {
 	return func(t html.Token) bool {
 		foundTable, _ := checkAttribute(t.Attr, "class", "FVIII table")
@@ -82,6 +92,7 @@ func isTable() AnchorEval {
 	}
 }
 
+//
 func isImage() AnchorEval {
 	return func(t html.Token) bool {
 		foundImg, _ := checkAttribute(t.Attr, "data-image-name", ".png")
@@ -92,25 +103,27 @@ func isImage() AnchorEval {
 	}
 }
 
+//
 func stopOnImageFound() AnchorEval {
 	i := 0
 	return func(t html.Token) bool {
 		i++
 		if i < 11 {
 			return false
-		} else {
-			i = 0
-			return true
 		}
+		i = 0
+		return true
 	}
 }
 
+//
 func falseFunc() AnchorEval {
 	return func(t html.Token) bool {
 		return false
 	}
 }
 
+//
 func findCardTable(tk *html.Tokenizer) {
 	aa := AnchorActor{Evaluator: isTable(), Action: findCardImage(), stopOnFound: falseFunc()}
 	SearchPageForAnchor(tk, aa)
@@ -126,6 +139,7 @@ func findCardImage() AnchorAction {
 
 var i = 0
 
+//DownloadImage downloads image
 func DownloadImage() AnchorAction {
 	return func(tk *html.Tokenizer, t html.Token) {
 		found, url := checkAttribute(t.Attr, "data-src", "http")
